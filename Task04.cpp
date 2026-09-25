@@ -1,3 +1,7 @@
+//Danyal Asfar
+//552124
+//BSCS-15
+//Section D
 #include <iostream>
 #include <string>
 using namespace std;
